@@ -1,2 +1,2 @@
-# password-manager
-personel password manager made in C
+# C curriculum
+1) Project 1 : simple terminal calculator
